@@ -1,0 +1,156 @@
+<?xml version='1.0'?>
+<roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>18.45</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>06.50</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>19.05</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>06.50</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>06.50</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>19.45</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>07.50</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>20.05</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>07.50</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>20.45</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>07.50</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>07.00</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>19.40</timeto>
+        <standard>Super</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>07.20</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>19.40</timeto>
+        <standard>Super</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>12.30</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>01.10</timeto>
+        <standard>Star</standard>
+        <price>621</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>01.10</timeto>
+        <standard>Star</standard>
+        <price>621</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>ไม่ระบุ</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>06.15</timeto>
+        <standard>Super</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>17.35</timeout>
+        <endterminal>เชียงราย</endterminal>
+        <timeto>06.15</timeto>
+        <standard>Super</standard>
+        <price>725</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <timeout>07:30  น.</timeout>
+        <endterminal> แม่สาย</endterminal>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.1ก</standard>
+        <price>913</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <timeout>17:30  น.</timeout>
+        <endterminal> แม่สาย</endterminal>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.1ข</standard>
+        <price>587</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <timeout>19:00  น.</timeout>
+        <endterminal> เชียงแสน(ข)</endterminal>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.4ข</standard>
+        <price>590</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <timeout>19:45  น.</timeout>
+        <endterminal> แม่สาย(ด่วน)</endterminal>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.1ก</standard>
+        <price>913</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <timeout>20:20  น.</timeout>
+        <endterminal> เชียงราย(ข)</endterminal>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.4ข</standard>
+        <price>590</price>
+    </roundtrip>
+</roundtrip>
